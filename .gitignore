@@ -1,0 +1,17 @@
+# Java and NetBeans generated output
+/build/
+/dist/
+/out/
+*.class
+*.jar
+
+# NetBeans machine-specific state
+/nbproject/private/
+
+# Submitted scratch or unused files retained locally
+/fileName
+/purchaseOrder.txt
+
+# Common operating-system files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,16 @@
+I001,TechSupply,4500
+I001,Digital World,5000
+I002,Digital World,5500
+I002,Gadget Hub,6000
+I003,Gadget Hub,2500
+I003,TechSupply,2800
+I004,ElectroMart,80
+I005,Smart Devices,400
+I006,Smart Devices,3500
+I007,ElectroMart,1200
+I008,Gadget Hub,2500
+I008,TechSupply,2200
+I009,Digital World,1800
+I009,ElectroMart,1900
+I010,TechSupply,2100
+I010,Smart Devices,2300

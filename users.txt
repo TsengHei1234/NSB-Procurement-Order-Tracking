@@ -1,0 +1,8 @@
+A001,jeff,jeff@gmail.com,jeff23,admin,Way Jing Fatt,-
+SM001,loong,jialoong@gmail.com,loong123,salesManager,Tio Jia Loong,-
+SM002,tio,tio@gmail.com,tio123,salesManager,Jia Loong,-
+PM001,sushi,sushi@gmail.com,sushi123,purchaseManager,Suy Tseng Hei,-
+PM002,sui,sui@gmail.com,sui123,purchaseManager,Tseng Hei,-
+IM001,lauzc,lauzc@gmail.com,lauzc123,inventoryManager,Lau Zheng Cheng,-
+FM001,kumo,kumo@gmail.com,kumo123,financialManager,Tang Kien Hwa,-
+FM002,jianhua,jianhua@gmail.com,jianhua123,financialManager,Jian Hua,-

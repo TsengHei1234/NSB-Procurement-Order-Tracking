@@ -1,0 +1,5 @@
+S001,TechSupply,0123456789,123 Tech Avenue, Kuala Lumpur
+S002,Digital World,0132345678,45 Innovation Blvd, Johor Bahru
+S003,Gadget Hub,0143456789,98 Digital Lane, Penang
+S004,ElectroMart,0154567890,88 Tech Park, Kuala Lumpur
+S005,Smart Devices,0165678901,75 Smart St, Selangor
